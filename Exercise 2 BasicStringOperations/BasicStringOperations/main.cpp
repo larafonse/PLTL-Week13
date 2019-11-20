@@ -1,10 +1,5 @@
-//
-//  main.cpp
-//  BasicStringOperations
-//
+//  This project uses the wordCounter function to take in a string as a parameter and returns the number of words in the string.
 //  Created by Nicolas Lara on 11/19/19.
-//  Copyright © 2019 Nicolas Lara. All rights reserved.
-//
 
 #include <iostream>
 #include <cstring>
